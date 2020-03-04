@@ -11,12 +11,10 @@
           "**/includes/**",
           "_themes/**",
           "_themes.pdf/**",
-          "**/docfx.json",
-          "_repo.en-us/**",
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices.md"
+          "ThirdPartyNotices"
         ]
       }
     ],
@@ -30,22 +28,20 @@
           "**/obj/**",
           "**/includes/**",
           "_themes/**",
-          "_themes.pdf/**",
-          "**/docfx.json",
-          "_repo.en-us/**"
+          "_themes.pdf/**"
         ]
       }
     ],
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/windows/release-information/breadcrumb/toc.json",
+      "breadcrumb_path": "/release-information/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None"
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "rel-info",
+    "dest": "release-information",
     "markdownEngineName": "markdig"
   }
 }
